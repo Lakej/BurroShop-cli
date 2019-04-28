@@ -1,29 +1,34 @@
-# burroshop
+# Burro shop
 
-## Project setup
+## Configuracion del Proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Inicia la Interfaz Grafica de VUE
+```
+vue ui --dev
+```
+
+### Compila e inicia los hot-relaod para desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila y minifica para produccion
 ```
 npm run build
 ```
 
-### Run your tests
+### Corre las pruebas
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### Lintea y arregla fallas 
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Personaliza la configuracion
+Ve [Configuration Reference](https://cli.vuejs.org/config/).
