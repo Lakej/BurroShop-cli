@@ -1,0 +1,9 @@
+<template>
+    <v-text-field
+        solo-inverted
+        flat
+        hide-details
+        label="Buscar"
+        prepend-inner-icon="search"
+      ></v-text-field>
+</template>
